@@ -1,0 +1,19 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DCC9-9550
+
+ Directory of C:\Users\itsza\workspaceCucumber\AppleWebTest_BDD
+
+06/02/2021  01:21 PM    <DIR>          .
+06/02/2021  01:21 PM    <DIR>          ..
+09/19/2020  09:40 PM             1,290 .classpath
+08/07/2017  12:24 PM               568 .project
+10/14/2020  08:32 PM    <DIR>          .settings
+10/14/2020  08:32 PM    <DIR>          lib_drivers
+09/26/2017  06:11 PM             5,069 pom.xml
+10/14/2020  08:32 PM    <DIR>          src
+06/02/2021  12:45 PM               771 stagePrac.txt
+06/02/2021  01:21 PM                 0 sth3.txt
+10/14/2020  08:32 PM    <DIR>          target
+10/14/2020  08:32 PM    <DIR>          test-output
+               5 File(s)          7,698 bytes
+               7 Dir(s)  791,325,331,456 bytes free
