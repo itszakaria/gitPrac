@@ -1,0 +1,23 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DCC9-9550
+
+ Directory of C:\Users\itsza\workspaceCucumber\AppleSite_CucumberBDD
+
+06/02/2021  04:37 PM    <DIR>          .
+06/02/2021  04:37 PM    <DIR>          ..
+10/11/2017  12:48 PM             1,036 .classpath
+10/11/2017  12:54 PM               395 .gitattributes
+02/11/2017  04:26 AM               189 .gitignore
+10/14/2020  08:32 PM    <DIR>          .idea
+08/11/2017  11:53 PM               569 .project
+10/14/2020  08:32 PM    <DIR>          .settings
+02/11/2017  04:26 AM             6,232 CucumberBasics.iml
+10/14/2020  08:32 PM    <DIR>          lib_drivers
+10/11/2017  01:01 PM             4,727 pom.xml
+10/11/2017  01:00 PM                47 Readme.md
+10/14/2020  08:32 PM    <DIR>          src
+06/02/2021  12:35 PM               985 stagePrac.txt
+06/02/2021  04:37 PM                 0 sth5.txt
+10/14/2020  08:32 PM    <DIR>          target
+               9 File(s)         14,180 bytes
+               7 Dir(s)  790,774,480,896 bytes free
