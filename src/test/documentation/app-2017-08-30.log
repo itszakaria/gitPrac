@@ -1,0 +1,4 @@
+11:12:12.947 INFO  testCases.StepDefinition -We are on 'https://www.apple.com/' now.
+11:13:33.920 INFO  testCases.StepDefinition -Scrolled down the botton of the page
+11:13:41.539 INFO  testCases.StepDefinition -Clicked on Buy link.
+11:14:18.915 INFO  testCases.StepDefinition -This test has PASSED!! and the report files have been created!!

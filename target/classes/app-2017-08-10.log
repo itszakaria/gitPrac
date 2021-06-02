@@ -1,0 +1,41 @@
+14:22:27.886 INFO  testCases.StepDefinition -We are on 'https://www.apple.com/' now.
+14:23:39.832 INFO  testCases.StepDefinition -Scrolled down the botton of the page
+14:23:42.894 INFO  testCases.StepDefinition -Clicked on Buy link.
+14:24:08.794 INFO  testCases.StepDefinition -This test has PASSED!! and the report files have been created!!
+14:27:18.796 INFO  testCases.StepDefinition -We are on 'https://www.apple.com/' now.
+14:28:22.560 INFO  testCases.StepDefinition -Scrolled down the botton of the page
+14:28:25.352 INFO  testCases.StepDefinition -Clicked on Buy link.
+14:30:28.415 INFO  testCases.StepDefinition -We are on 'https://www.apple.com/' now.
+14:31:32.185 INFO  testCases.StepDefinition -Scrolled down the botton of the page
+14:31:34.783 INFO  testCases.StepDefinition -Clicked on Buy link.
+14:32:00.112 INFO  testCases.StepDefinition -This test has PASSED!! and the report files have been created!!
+21:10:09.371 INFO  testCases.StepDefinition -We are on 'https://www.apple.com/' now.
+21:12:35.892 INFO  testCases.StepDefinition -We are on 'https://www.apple.com/' now.
+21:49:21.833 INFO  testCases.StepDefinition -We are on 'https://www.apple.com/' now.
+21:50:25.932 INFO  testCases.StepDefinition -Scrolled down the botton of the page
+21:50:29.068 INFO  testCases.StepDefinition -Clicked on Buy link.
+21:50:54.953 INFO  testCases.StepDefinition -This test has PASSED!! and the report files have been created!!
+21:53:22.273 INFO  testCases.StepDefinition -We are on 'https://www.apple.com/' now.
+21:54:25.682 INFO  testCases.StepDefinition -Scrolled down the botton of the page
+21:54:28.487 INFO  testCases.StepDefinition -Clicked on Buy link.
+21:54:53.762 INFO  testCases.StepDefinition -This test has PASSED!! and the report files have been created!!
+22:03:36.956 INFO  testCases.StepDefinition -We are on 'https://www.apple.com/' now.
+22:04:40.812 INFO  testCases.StepDefinition -Scrolled down the botton of the page
+22:04:43.590 INFO  testCases.StepDefinition -Clicked on Buy link.
+22:05:08.894 INFO  testCases.StepDefinition -This test has PASSED!! and the report files have been created!!
+22:26:02.823 INFO  testCases.StepDefinition -We are on 'https://www.apple.com/' now.
+22:27:07.297 INFO  testCases.StepDefinition -Scrolled down the botton of the page
+22:27:10.435 INFO  testCases.StepDefinition -Clicked on Buy link.
+22:27:36.349 INFO  testCases.StepDefinition -This test has PASSED!! and the report files have been created!!
+22:32:12.352 INFO  testCases.StepDefinition -We are on 'https://www.apple.com/' now.
+22:33:15.510 INFO  testCases.StepDefinition -Scrolled down the botton of the page
+22:33:18.289 INFO  testCases.StepDefinition -Clicked on Buy link.
+22:33:43.278 INFO  testCases.StepDefinition -This test has PASSED!! and the report files have been created!!
+22:58:23.642 INFO  testCases.StepDefinition -We are on 'https://www.apple.com/' now.
+22:59:33.921 INFO  testCases.StepDefinition -Scrolled down the botton of the page
+22:59:36.792 INFO  testCases.StepDefinition -Clicked on Buy link.
+23:00:02.302 INFO  testCases.StepDefinition -This test has PASSED!! and the report files have been created!!
+23:02:58.282 INFO  testCases.StepDefinition -We are on 'https://www.apple.com/' now.
+23:04:02.129 INFO  testCases.StepDefinition -Scrolled down the botton of the page
+23:04:04.876 INFO  testCases.StepDefinition -Clicked on Buy link.
+23:04:30.011 INFO  testCases.StepDefinition -This test has PASSED!! and the report files have been created!!

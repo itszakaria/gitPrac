@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test verbose="2" name="Default test">
+    <classes>
+      <class name="PageClassses.macLinkPageFactory"/>
+      <class name="PageClassses.MusicPageFactory"/>
+      <class name="testCases.StepDefinition"/>
+      <class name="PageClassses.MusicPage"/>
+      <class name="PageFactory.YahooMailRepo"/>
+      <class name="Utilities.linksStatus"/>
+      <class name="PageClassses.appleTV_regularPageClass"/>
+      <class name="PageClassses.accessoriesPageFactory"/>
+      <class name="PageClassses.supportPF"/>
+      <class name="Utilities.Others"/>
+      <class name="PageClassses.macBookAirPageFacotory"/>
+      <class name="Utilities.TestBase"/>
+      <class name="Utilities.ScanThisPage"/>
+      <class name="PageFactory.ExpediaHomepagePF"/>
+      <class name="Utilities.ExtentFactory"/>
+      <class name="PageClassses.iPadPOM"/>
+      <class name="Utilities.SelectDriver"/>
+      <class name="Utilities.ResultFile"/>
+      <class name="PageClassses.ipadPF"/>
+      <class name="PageClassses.homePageFactory"/>
+      <class name="PageClassses.appleWatchPF"/>
+      <class name="PageFactory.AmazonHomeRepo"/>
+      <class name="WebDrivers.SelectDriver"/>
+      <class name="PageFactory.ExpediaHomepageSearchpage"/>
+      <class name="Utilities.Screenshot"/>
+      <class name="PageClassses.iPhonePagePF"/>
+      <class name="testCases.AppleWatchPage"/>
+      <class name="PageClassses.macBookProPF"/>
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Failed suite [Default suite] -->

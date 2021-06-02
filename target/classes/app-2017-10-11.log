@@ -1,0 +1,6 @@
+12:31:49.891 INFO  testCases.StepDefinition -We are on 'https://www.apple.com/' now.
+12:35:40.842 INFO  testCases.StepDefinition -We are on 'https://www.apple.com/' now.
+12:38:03.956 INFO  testCases.StepDefinition -We are on 'https://www.apple.com/' now.
+12:40:26.105 INFO  testCases.StepDefinition -We are on 'https://www.apple.com/' now.
+12:41:43.541 INFO  testCases.StepDefinition -Scrolled down the botton of the page
+12:49:22.320 INFO  testCases.StepDefinition -We are on 'https://www.apple.com/' now.
